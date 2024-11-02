@@ -13,7 +13,6 @@ public class Main {
 		char sexo;
 		double altura, alturaMaior = 0, peso, pesoSoma = 0, pesoMedio, porcHomens, somaAlturaMulheres = 0, alturaMediaMulheres;
 		
-		
 		System.out.print("Qual a quantidade de atletas? ");
 		n = sc.nextInt();
 		
