@@ -1,4 +1,4 @@
-package m05_rep_aula11_desafio;
+package m05_aula11_rep_desafio;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package m04_cond_aula10_desafio;
+package m04_aula10_cond_desafio;
 
 import java.util.Locale;
 import java.util.Scanner;
