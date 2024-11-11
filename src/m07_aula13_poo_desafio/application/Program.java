@@ -33,7 +33,6 @@ public class Program {
 			System.out.println("Isento de Couvert");
 		
 		System.out.printf("Ingresso = R$ %.2f%n", bill.ticket());
-		
 		System.out.printf("\nValor a pagar = R$ %.2f", bill.total());
 		
 		sc.close();
